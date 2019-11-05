@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-void Print() {
+func Print() {
 	fmt.Println("gomodule1 hello")
 }
